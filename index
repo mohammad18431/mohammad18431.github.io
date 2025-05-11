@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Built by Strength: Mohammad’s Life Blog</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1 class="glowing-text">Built by Strength: Mohammad’s Life Blog</h1>
+        <p>Arm Wrestling | Science | Gaming | Fitness | English | Life Reflections</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2 class="glowing-text">About Me</h2>
+        <p>Hey, I'm Mohammad—an 18-year-old competitive arm wrestler, bodybuilder, science student, and digital creator. My journey is all about strength, discipline, creativity, and growth.</p>
+
+        <ul>
+            <li>💪 **Arm Wrestling & Fitness:** Training hard for the **World Armwrestling Federation (WAF) Championships**, focused on strength, endurance, and technique.</li>
+            <li>🧠 **Science & Learning:** Passionate about **physics, biology, and chemistry**, using science to **improve fitness & daily life**.</li>
+            <li>🎮 **Minecraft Modding & Gaming:** A huge fan of **Fisk’s Superheroes mod**, custom texture packs, and **building a mod-sharing community**.</li>
+            <li>📝 **English & Communication:** Learning English to **connect globally, improve self-expression, and explore new opportunities**.</li>
+            <li>💭 **Life & Growth:** Transforming challenges into strength, overcoming **hardships like family struggles**, and focusing on personal development.</li>
+        </ul>
+
+        <!-- Buttons for Image Gallery -->
+        <div class="button-container">
+            <button id="show-images">Show Images</button>
+            <button id="hide-images">Hide Images</button>
+        </div>
+
+        <!-- Polaroid Image Gallery -->
+        <div class="image-gallery" id="image-gallery">
+            <div class="image-item"><img src="images/mohammad-gym-flex.jpg" alt="Mohammad flexing in the gym"></div>
+            <div class="image-item"><img src="images/mohammad-gym-side.jpg" alt="Mohammad standing in the gym"></div>
+            <div class="image-item"><img src="images/mohammad-shadow-flex.jpg" alt="Mohammad flexing as a shadow on concrete"></div>
+            <div class="image-item"><img src="images/mohammad-suit.jpg" alt="Mohammad wearing a blue suit taking a mirror selfie"></div>
+            <div class="image-item"><img src="images/mohammad-deadlift.jpg" alt="Mohammad performing a deadlift in the gym"></div>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog">
+        <h2 class="glowing-text">Blog</h2>
+        <p>Follow my journey in fitness, science, gaming, English learning, and personal growth. Stay tuned for updates!</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2 class="glowing-text">Contact</h2>
+        <p>📧 Email: <strong>m6532056</strong></p>
+        <p>📱 Phone: <strong>0903 983 3503</strong></p>
+        <p>📷 Instagram: <a href="https://www.instagram.com/mhmd.mhzd_" target="_blank">mhmd.mhzd_</a></p>
+        <p>💬 Twitter/X & Discord: (Still finding my handle! 😂)</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Mohammad | Built by Strength</p>
+    </footer>
+
+</body>
+</html>
+
